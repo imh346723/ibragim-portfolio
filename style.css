@@ -21,6 +21,7 @@ h1{
 text-align: center;
 color: #00CC00;
 font-size: 96px;
+text-shadow: 10px 15px 12px black;
 
 }
 ul li{
@@ -84,6 +85,19 @@ li{
 margin-bottom: 20px;
 
 
+
+
+}
+h2{
+color:#8cffffe9;
+font-size: 64px;
+margin-left: 60px;
+
+
+}
+.social{
+margin: 30px;
+display: inline-block;
 
 
 }
